@@ -1,0 +1,23 @@
+name: RpgMC
+version: '1.0-SNAPSHOT'
+main: me.hbcommando.rpgmc.RpgMc
+api-version: 1.19
+authors: [ hbcommando ]
+description: This is a plugin that focuses on adding RPG content into Minecraft!
+commands:
+  fly:
+    description: Toggles flight
+    usage: /fly
+    aliases: [togglefly, toggleflight]
+    permission: fly
+    permission-message: You do not have the permission to execute this command
+
+  setSpawn:
+    description: Sets the server spawn
+    usage: /setspawn
+    permission: spawn.set
+    permission-message: You do not have the permission to execute this command
+
+  spawn:
+    description: Teleports you to the server spawn
+    usage: /spawn

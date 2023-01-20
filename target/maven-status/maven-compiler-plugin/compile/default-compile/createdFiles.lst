@@ -1,0 +1,6 @@
+me\hbcommando\rpgmc\commands\SetSpawn.class
+me\hbcommando\rpgmc\util\SpawnUtil.class
+me\hbcommando\rpgmc\RpgMc.class
+me\hbcommando\rpgmc\commands\Fly.class
+me\hbcommando\rpgmc\commands\Spawn.class
+me\hbcommando\rpgmc\util\ConfigUtil.class
